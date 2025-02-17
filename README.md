@@ -9,8 +9,8 @@ This is a simple and basic script that uses Puppeteer to detect Cross-Site Scrip
 #### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/xss-scanner.git
-cd xss-scanner
+git clone https://github.com/K4mD4m/Simple-XSS-Scanner.git
+cd Simple-XSS-Scanner
 ```
 
 #### 2️⃣ Install dependencies
